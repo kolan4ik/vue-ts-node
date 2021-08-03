@@ -1,0 +1,20 @@
+{
+  "empty-page": "Page empty",
+  "menu": {
+    "home": "Home",
+    "info": "Info",
+    "about": "About"
+  },
+  "buttons": {
+    "buttons-logout": "Logout"
+  },
+  "footer-text": "My Desig ned 2021",
+  "articles": {
+    "destination-title": "Destination",
+    "destination-author": "Added",
+    "view-btn": "see more",
+    "back-btn": "Back"
+  },
+  "search-article": "Search",
+  "btn-tooltip": "Change view"
+}

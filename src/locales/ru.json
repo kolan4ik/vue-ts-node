@@ -1,0 +1,20 @@
+{
+  "empty-page": "Нету постов",
+  "menu": {
+    "home": "Главная",
+    "info": "Инфо",
+    "about": "О нас"
+  },
+  "buttons": {
+    "buttons-logout": "Выход"
+  },
+  "footer-text": "Мой дизайн 2021",
+  "articles": {
+    "destination-title": "Место",
+    "destination-author": "Автор",
+    "view-btn": "Смотреть статью полностью",
+    "back-btn": "Назад"
+  },
+  "search-article": "Поиск",
+  "btn-tooltip": "Меняем вид"
+}
